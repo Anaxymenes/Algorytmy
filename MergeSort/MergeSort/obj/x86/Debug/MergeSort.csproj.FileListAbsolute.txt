@@ -1,0 +1,8 @@
+C:\Users\Faith\AppData\Local\Temporary Projects\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Faith\AppData\Local\Temporary Projects\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Faith\AppData\Local\Temporary Projects\MergeSort\obj\x86\Debug\MergeSort.exe
+C:\Users\Faith\AppData\Local\Temporary Projects\MergeSort\obj\x86\Debug\MergeSort.pdb
+C:\Users\Faith\documents\visual studio 2010\Projects\MergeSort\MergeSort\obj\x86\Debug\MergeSort.exe
+C:\Users\Faith\documents\visual studio 2010\Projects\MergeSort\MergeSort\obj\x86\Debug\MergeSort.pdb
+C:\Users\Faith\documents\visual studio 2010\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Faith\documents\visual studio 2010\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
