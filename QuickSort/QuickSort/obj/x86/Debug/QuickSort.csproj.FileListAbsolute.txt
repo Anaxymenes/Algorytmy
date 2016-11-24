@@ -1,0 +1,8 @@
+C:\Users\Faith\AppData\Local\Temporary Projects\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Faith\AppData\Local\Temporary Projects\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Faith\AppData\Local\Temporary Projects\QuickSort\obj\x86\Debug\QuickSort.exe
+C:\Users\Faith\AppData\Local\Temporary Projects\QuickSort\obj\x86\Debug\QuickSort.pdb
+C:\Users\Faith\documents\visual studio 2010\Projects\QuickSort\QuickSort\obj\x86\Debug\QuickSort.exe
+C:\Users\Faith\documents\visual studio 2010\Projects\QuickSort\QuickSort\obj\x86\Debug\QuickSort.pdb
+C:\Users\Faith\documents\visual studio 2010\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Faith\documents\visual studio 2010\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.pdb

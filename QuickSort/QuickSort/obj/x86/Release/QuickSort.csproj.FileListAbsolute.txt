@@ -1,0 +1,4 @@
+C:\Users\Faith\documents\visual studio 2010\Projects\QuickSort\QuickSort\bin\Release\QuickSort.exe
+C:\Users\Faith\documents\visual studio 2010\Projects\QuickSort\QuickSort\bin\Release\QuickSort.pdb
+C:\Users\Faith\documents\visual studio 2010\Projects\QuickSort\QuickSort\obj\x86\Release\QuickSort.exe
+C:\Users\Faith\documents\visual studio 2010\Projects\QuickSort\QuickSort\obj\x86\Release\QuickSort.pdb
