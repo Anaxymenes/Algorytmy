@@ -1,0 +1,4 @@
+C:\Users\Faith\AppData\Local\Temporary Projects\CountingSort\bin\Debug\CountingSort.exe
+C:\Users\Faith\AppData\Local\Temporary Projects\CountingSort\bin\Debug\CountingSort.pdb
+C:\Users\Faith\AppData\Local\Temporary Projects\CountingSort\obj\x86\Debug\CountingSort.exe
+C:\Users\Faith\AppData\Local\Temporary Projects\CountingSort\obj\x86\Debug\CountingSort.pdb

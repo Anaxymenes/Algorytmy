@@ -1,0 +1,4 @@
+C:\Users\Faith\AppData\Local\Temporary Projects\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Faith\AppData\Local\Temporary Projects\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Faith\AppData\Local\Temporary Projects\SelectionSort\obj\x86\Debug\SelectionSort.exe
+C:\Users\Faith\AppData\Local\Temporary Projects\SelectionSort\obj\x86\Debug\SelectionSort.pdb
