@@ -1,0 +1,4 @@
+E:\Projekty\Grafy_AC\Grafy_AC\bin\Debug\Grafy_AC.exe
+E:\Projekty\Grafy_AC\Grafy_AC\bin\Debug\Grafy_AC.pdb
+E:\Projekty\Grafy_AC\Grafy_AC\obj\x86\Debug\Grafy_AC.exe
+E:\Projekty\Grafy_AC\Grafy_AC\obj\x86\Debug\Grafy_AC.pdb
